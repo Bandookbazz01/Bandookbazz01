@@ -156,15 +156,16 @@ current_focus = {
 </div>
 
 ---
-
 <div align="center">
+*🤖 eat • 😴 sleep • 💻 code • 🏋️ lift • 🔁 repeat*
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Bandookbazz01&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
-
-*🤖 eat • 😴 sleep • 💻 code • 🏋️ lift • 🔁 repeat*
-
+<div align="center">
 ⭐ *If you like what I build — drop a star. It means more than you think.* ⭐
+</div>
 
+
+---
 </div>
